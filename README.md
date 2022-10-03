@@ -6,5 +6,7 @@
     📮kgirma363@gmail.com | ketemagirma15@gmail.com
     🤳+251912323811 
     📮Twitter @KetemaGirma6
+    📮Telegram @thesevendot
+    
 
 
