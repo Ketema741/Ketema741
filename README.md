@@ -7,5 +7,5 @@
     🤳 [+251912323811](+251912323811) 
     📮 [Twitter](@KetemaGirma6) 
     📮 [Telegram](@thesevendot) 
-    📮 [Linkedin]([url](https://www.linkedin.com/in/ketema-girma-608729228))
+    📮 [Linkedin]([url](https://www.linkedin.com/in/ketema-girma-608729228/)) https://www.linkedin.com/in/ketema-girma-608729228/
     
