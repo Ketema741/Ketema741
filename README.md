@@ -8,7 +8,7 @@
 - 💬 Ask me about **reactjs, Nextjs, Typescript, Python, Fluter**
 
 - 📫 How to reach me **kgirma363@gmail.com**
-- - 📫 How to reach me **ketemagirma15@gmail.com**
+- 📫 How to reach me **ketemagirma15@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ketema-girma-608729228](www.linkedin.com/in/ketema-girma-608729228)
 
