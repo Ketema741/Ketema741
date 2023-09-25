@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **reactjs, Nextjs, Typescript, Python, Fluter**
+- 💬 Ask me about **Reactjs, Nextjs, Nodejs, Expressjs, Typescript, Python, Fluter**
 
 - 📫 How to reach me **kgirma363@gmail.com**
 - 📫 How to reach me **ketemagirma15@gmail.com**
