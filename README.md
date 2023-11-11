@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
-- 🌱 I’m currently learning **Flutter with clean architecture** 
+- 🌱 I’m currently mastering **Flutter with clean architecture** 
 
 - 💬 Ask me about **Reactjs, Nextjs, Nodejs, Expressjs, Typescript, Python, Fluter**
 
