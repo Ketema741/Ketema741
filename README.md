@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketema Girma</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer | Algorithmic Problem Solver | Flutter developer| Seeking Opportunities to Drive Technological Innovation</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | Algorithmic Problem Solver | Flutter developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
