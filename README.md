@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/ketema-girma-608729228](www.linkedin.com/in/ketema-girma-608729228)
 
-- ⚡ Fun fact **I like joking!**
-
 <h3 align="left">Problem Solving</h3>
 <p align="left">
 
