@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/Ketema741)
 <h1 align="center">Hi 👋, I'm Ketema Girma</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | Algorithmic Problem Solver | Flutter developer </h3>
+<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
