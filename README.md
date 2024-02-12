@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
-- 🌱 I’m currently developing **Flutter with clean architecture and "RiverPod Architecture"** 
+- 🌱 I’m currently developing **Flutter With Clean Architecture and "RiverPod Architecture"** 
 
 - 💬 Ask me about **Reactjs, Nextjs, Nodejs, Expressjs, Typescript, Python, Fluter**
 
