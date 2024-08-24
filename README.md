@@ -4,15 +4,25 @@
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
-- 🌱 I’m currently developing **MERN Stack and Flutter With Clean Architecture and "RiverPod Architecture"** 
-- 🌱 Full time freelancer on Upwork and Fiver. I build dynamic solutions and can boost your project's success. Here’s why:
-- 🌱 Worked on over 10 projects on upwork [Upwork]([url](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share)).
-- 🌱 Worked on over 10 projects on upwork [Upwork]([url](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share)).
+# About Me
 
-- 💬 Let’s turn your vision into reality. **Contact me to start your journey to excellence.**
-- 📫 **kgirma363@gmail.com**
-- 📫 **ketemagirma15@gmail.com**
-- 📄 LinkedIn [www.linkedin.com/in/ketema-girma-608729228](www.linkedin.com/in/ketema-girma-608729228)
+🌱 I’m currently working with **MERN Stack** and **Flutter**, using **Clean Architecture** and **Riverpod**.
+
+🌱 I'm a full-time freelancer on Upwork and Fiverr, creating solutions to help your project succeed. Here’s why you should choose me:
+
+🌱 I’ve completed over 10 projects on Upwork. Check out my profile [here](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share).
+
+💬 Let’s make your ideas a reality. **Contact me to get started.**
+
+## Contact
+
+📫 **kgirma363@gmail.com**  
+📫 **ketemagirma15@gmail.com**
+
+## Connect
+
+📄 LinkedIn: [www.linkedin.com/in/ketema-girma-608729228](www.linkedin.com/in/ketema-girma-608729228)
+
 
 <h3 align="left">Problem Solving</h3>
 <p align="left">
