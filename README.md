@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Ketema Girma</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | Algorithmic Problem Solver | Flutter developer </h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
 - 🌱 I’m currently developing **MERN Stack and Flutter With Clean Architecture and "RiverPod Architecture"** 
+- 🌱 Full time freelancer on Upwork and Fiver. I build dynamic solutions and can boost your project's success. Here’s why:
+- 🌱 Worked on over 10 projects on upwork [Upwork]([url](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share)).
+- 🌱 Worked on over 10 projects on upwork [Upwork]([url](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share)).
 
-- 💬 Ask me about **Reactjs, Nextjs, Nodejs, Expressjs, Typescript, Python, Fluter**
-
-- 📫 How to reach me **kgirma363@gmail.com**
-- 📫 How to reach me **ketemagirma15@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/ketema-girma-608729228](www.linkedin.com/in/ketema-girma-608729228)
+- 💬 Let’s turn your vision into reality. **Contact me to start your journey to excellence.**
+- 📫 **kgirma363@gmail.com**
+- 📫 **ketemagirma15@gmail.com**
+- 📄 LinkedIn [www.linkedin.com/in/ketema-girma-608729228](www.linkedin.com/in/ketema-girma-608729228)
 
 <h3 align="left">Problem Solving</h3>
 <p align="left">
