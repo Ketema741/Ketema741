@@ -6,18 +6,11 @@
 
 # About Me
 
-🌱 I’m currently working with **MERN Stack** and **Flutter**, using **Clean Architecture** and **Riverpod**.
+🌱 As a Top-Rated freelancer in **Upwork's** Top 10% of Talent, I specialize in delivering high-quality **web** and **mobile applications** tailored to your business objectives. With a proven track record of success and a commitment to excellence, I ensure solutions that drive results and exceed expectations.
 
-🌱 I'm a full-time freelancer on Upwork and Fiverr, creating solutions to help your project succeed. Here’s why you should choose me:
-
-🌱 I’ve completed over 10 projects on Upwork. Check out my profile [here](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share).
+🌱 I’ve completed over 15+ projects on Upwork. Check out my profile [here](https://www.upwork.com/freelancers/~0192ef87525f9b27cf?mp_source=share).
 
 💬 Let’s make your ideas a reality. **Contact me to get started.**
-
-## Contact
-
-📫 **kgirma363@gmail.com**  
-📫 **ketemagirma15@gmail.com**
 
 ## Connect
 
